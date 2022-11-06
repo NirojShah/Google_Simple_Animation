@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+    height: 3200px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.gmail{
+    display: inline-block;
+    font-family: arial;
+    font-size: 17px;
+    margin-left: 79%;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+a:hover{
+    color: #4285F4;
+}
+.images{
+    display: inline-block;
+    font-family: arial;
+    font-size: 17px;
+    font-weight: 400;
+    margin-right: 10px;
+}
+.apps{
+    display: inline-block;
+}
+img.apps{
+ width: 14px;
+ height: 14px;
+ margin-right: 10px;
+}
+.signin{
+    display: inline-block;
+}
+button.signin{
+
+    font-family: arial;
+    font-size: 17px;
+    width: 90px;
+    height: 40px;
+    font-weight: 400;
+    margin-right: 10px;
+    border: none;
+    background-color: #0a68ff;
+    border-radius: 15px;
+}
+button.signin:hover{
+    font-family: arial;
+    background-color: #4285F4;
+    color: white;
+    font-weight: 400;
+
+}
+img.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 45%;
+}
+.searchbox{
+    display: inline-block;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+input.searchboxg{
+    padding-left: 8px ;
+    width: 41vw;
+    height: 6vh;
+    border: 0.5px solid black;
+    border-radius: 30px;
+}
+.searchboxg:hover{
+    background-color: grey;
+}
+.search{
+    margin-top: 10px;
+    display: inline-block;
+}
+.searchg{
+    display: inline-block;
+    width: 10vw;
+    height: 6svh;
+    background-color: #0a68ff;
+    border: none;
+    margin-left: 40vw;
+    border-radius: 10px;
+}
+.searchg:hover{
+    background-color: #4285F4;
+}
+.lucky{
+    display: inline-block;
+    margin-top: 10px;
+}
+.luckyg{
+    display: inline-block;
+    width: 10vw;
+    height: 6vh;
+    background-color: #0a68ff;
+    border: none;
+    border-radius: 10px;
+}
+.luckyg:hover{
+    background-color: #4285F4;
+}
